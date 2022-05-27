@@ -2,7 +2,7 @@
 
 This is a batmans's clock made with html, css and javascript.
 
-![IMAGE AL TEXT HERE](img/clone-tinder.gif)
+![IMAGE AL TEXT HERE](img/clock-gif.gif)
 
 ## How to run it
 
